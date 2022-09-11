@@ -1,8 +1,10 @@
 import './App.css';
 import About from './components/About';
 import AllInOne from './components/AllInOne';
+import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
+import Priceing from './components/Priceing';
 import Services from './components/Services';
 
 function App() {
@@ -11,8 +13,10 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Services/>
-      <AllInOne/>
+      <Services />
+      <AllInOne />
+      <Priceing />
+      <Footer/>
 
     </>
   );
