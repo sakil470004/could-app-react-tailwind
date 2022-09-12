@@ -8,4 +8,3 @@
     <li>Used different type of Icon </li>
     <li>Our work details</li>
   </ol>
-  <hr/>https://could-app-react-tailwind.netlify.app/
